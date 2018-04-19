@@ -1,0 +1,173 @@
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btn_cell_down
+  rotate: false
+  xy: 0, 60
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+btn_cell_up
+  rotate: false
+  xy: 104, 60
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+ArmorGreen
+  rotate: false
+  xy: 208, 83
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+ArmorRed
+  rotate: false
+  xy: 282, 83
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+ArmorYellow
+  rotate: false
+  xy: 356, 83
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+BootsRed
+  rotate: false
+  xy: 430, 97
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+BootsYellow
+  rotate: false
+  xy: 515, 97
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+BootsGreen
+  rotate: false
+  xy: 600, 98
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+SwordGreen
+  rotate: false
+  xy: 685, 81
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+HelmetGreen
+  rotate: false
+  xy: 753, 82
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+BeltGreen
+  rotate: false
+  xy: 0, 8
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+BeltRed
+  rotate: false
+  xy: 78, 8
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+HelmetRed
+  rotate: false
+  xy: 753, 0
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+BeltYellow
+  rotate: false
+  xy: 156, 8
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+SwordRed
+  rotate: false
+  xy: 234, 0
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+SwordYellow
+  rotate: false
+  xy: 302, 0
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+ShieldGreen
+  rotate: false
+  xy: 370, 2
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+ShieldRed
+  rotate: false
+  xy: 430, 16
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+ShieldYellow
+  rotate: false
+  xy: 490, 16
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+HelmetYellow
+  rotate: false
+  xy: 550, 15
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 208, 60
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+btn_nav_down
+  rotate: false
+  xy: 597, 33
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+btn_nav_up
+  rotate: false
+  xy: 661, 17
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+selection
+  rotate: false
+  xy: 430, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

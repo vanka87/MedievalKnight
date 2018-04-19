@@ -1,0 +1,27 @@
+{
+    "items":{
+		"0" : { "type":Helmet,		"name":HelmetGreen, 	"attack":1, 	"defense":2, 	"price":30, 		"icon":HelmetGreen, 	"description":It is the best two-horned HelmetGreen. },
+		"1" : { "type":Helmet,		"name":HelmetYellow, 	"attack":4, 	"defense":7, 	"price":55, 		"icon":HelmetYellow, 	"description":It is the best two-horned HelmetYellow. },
+		"2" : { "type":Helmet,		"name":HelmetRed, 		"attack":10, 	"defense":15, 	"price":85, 		"icon":HelmetRed, 		"description":It is the best two-horned HelmetRed. },
+	
+        "3" : { "type":Sword,		"name":SwordGreen, 		"attack":10, 	"defense":8, 	"price":45, 		"icon":SwordGreen, 		"description":It is the best two-handed SwordGreen.},
+		"4" : { "type":Sword,		"name":SwordYellow, 	"attack":16, 	"defense":10, 	"price":55, 		"icon":SwordYellow, 	"description":It is the best two-handed SwordYellow. },
+		"5" : { "type":Sword,		"name":SwordRed, 		"attack":20, 	"defense":15, 	"price":90, 		"icon":SwordRed, 		"description":It is the best two-handed SwordRed. },
+		
+		"6" : { "type":Armor,		"name":ArmorGreen, 		"attack":5, 	"defense":20, 	"price":30, 		"icon":ArmorGreen, 		"description":It is the best invulnerable ArmorGreen. },
+		"7" : { "type":Armor,		"name":ArmorYellow, 	"attack":6, 	"defense":35, 	"price":64, 		"icon":ArmorYellow, 	"description":It is the best invulnerable ArmorYellow. },
+		"8" : { "type":Armor,		"name":ArmorRed, 		"attack":9, 	"defense":40, 	"price":85, 		"icon":ArmorRed, 		"description":It is the best invulnerable ArmorRed. },				
+		
+		"9" :  { "type":Shield,		"name":ShieldGreen, 	"attack":2, 	"defense":16, 	"price":20, 		"icon":ShieldGreen, 	"description":It is the best strong ShieldGreen. },
+		"10" : { "type":Shield,		"name":ShieldYellow, 	"attack":6, 	"defense":33, 	"price":38, 		"icon":ShieldYellow, 	"description":It is the best strong ShieldYellow. },
+		"11" : { "type":Shield,		"name":ShieldRed, 		"attack":8, 	"defense":38, 	"price":92, 		"icon":ShieldRed, 		"description":It is the best strong ShieldRed. },	
+
+		"12" : { "type":Belt,		"name":BeltGreen, 		"attack":10, 	"defense":8, 	"price":30, 		"icon":BeltGreen, 		"description":It is the best leather BeltGreen. },
+		"13" : { "type":Belt,		"name":BeltYellow, 		"attack":14, 	"defense":24, 	"price":35, 		"icon":BeltYellow, 		"description":It is the best leather BeltYellow. },
+		"14" : { "type":Belt,		"name":BeltRed, 		"attack":18, 	"defense":31, 	"price":74, 		"icon":BeltRed, 		"description":It is the best leather BeltRed. },				
+		
+		"15" : { "type":Boots,		"name":BootsGreen, 		"attack":12, 	"defense":17, 	"price":16, 		"icon":BootsGreen, 		"description":It is the best quick BootsGreen. },
+		"16" : { "type":Boots,		"name":BootsYellow, 	"attack":16, 	"defense":21, 	"price":53, 		"icon":BootsYellow, 	"description":It is the best quick BootsYellow. },
+		"17" : { "type":Boots,		"name":BootsRed, 		"attack":24, 	"defense":40, 	"price":90, 		"icon":BootsRed, 		"description":It is the best quick BootsRed. }
+	    } 
+ }
